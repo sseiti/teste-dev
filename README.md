@@ -1,4 +1,4 @@
-# teste-dev
+# teste-dev (Laravel)
 1 - Inicialmente utilize "composer update"<br>
 2 - Configura o arquivo .env para o banco de dados sqlexpress<br>
 3 - Faça o migrate do arquivo para geração das tabelas e dados automáticos "php artisan migrate:refresh --seed"<br>
